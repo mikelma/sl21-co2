@@ -3,6 +3,8 @@
 Real-time CO2 level visualizer, made for a workshop celebrated in [Summerlab2021-Tabakalera](https://www.tabakalera.eus/es/summerlab-2021). 
 The visualizer pulls the data from a cloud-based storage and plots the data in a simple 2D graph.
 
+Thanks to [montera34](https://montera34.com/en/) for the workshop and to [ladecadence](https://github.com/ladecadence) for all the help.
+
 ## Dependencies
 
 * `curl`
